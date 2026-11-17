@@ -5,15 +5,7 @@
     border: 1px solid gray;
     margin-left: 1px;
 }
-.rc-slider-handle {
 
-    border-radius: 0px !important;
-    width: 0px;
-    height: 20px;
-    border: 1px solid blue;
-    margin-left: 0px;
-    margin-top: -14px;
-}
 
 .rc-slider-mark-text-active {
     color:gray !important;
